@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/intro1">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/intro_logo"
+        android:layout_centerHorizontal="true"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="170dp"
+        android:id="@+id/img"/>
+
+    <TextView
+        android:id="@+id/slide_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/slide_desc"
+        android:layout_alignLeft="@+id/slide_desc"
+        android:layout_alignStart="@+id/slide_desc"
+        android:text="@string/slide_1_tittle"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/font_size_intro_tittle"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/slide_desc"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="70dp"
+        android:layout_marginLeft="30dp"
+        android:text="@string/slide_1_desc"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/font_size_intro_desc" />
+
+</RelativeLayout>

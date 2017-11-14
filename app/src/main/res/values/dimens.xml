@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ukuran logo. -->
+    <dimen name="logo_intro_height">180dp</dimen>
+    <dimen name="logo_intro_width">180dp</dimen>
+
+    <!-- ukuran font. -->
+    <dimen name="font_size_intro_tittle">14sp</dimen>
+    <dimen name="font_size_intro_desc">12sp</dimen>
+    <dimen name="font_size_icon">10sp</dimen>
+    <dimen name="font_title">20sp</dimen>
+
+
+    <!-- ukuran margin. -->
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">20dp</dimen>
+    <dimen name="margin_large">30dp</dimen>
+    <dimen name="margin_huge">60dp</dimen>
+
+    <!-- Crop Image -->
+    <dimen name="crop_10dp">-10dp</dimen>
+    <dimen name="crop_20dp">-20dp</dimen>
+
+    <dimen name="size_icon">93dp</dimen>
+</resources>

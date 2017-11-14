@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Lastri</string>
+
+    <!-- Next, Skip, Done -->
+    <string name="Next">Next </string>
+    <string name="Skip">Skip </string>
+    <string name="Done">Skip </string>
+
+    <!-- Halaman Login -->
+    <string name="have_account">Already have an account?</string>
+
+    <!-- Slide 1 Tittle and Description -->
+    <string name="slide_1_tittle">Quelite adalah, </string>
+    <string name="slide_1_desc">Datang ke antrean untuk mendapatkan barcode scan menggunakan aplikasi </string>
+
+    <!-- Slide 2 Tittle and Description -->
+    <string name="slide_2_tittle">Get Barcode, </string>
+    <string name="slide_2_desc">Dapatkan nomor barcode yang sudah di scan </string>
+
+    <!-- Slide 3 Tittle and Description -->
+    <string name="slide_3_tittle">Wait Queue Number, </string>
+    <string name="slide_3_desc">Tunggu nomor antrian anda muncul </string>
+
+    <!-- Slide 4 Tittle and Description -->
+    <string name="slide_4_tittle">Go To Counter </string>
+    <string name="slide_4_desc">Datang ke loket antrian </string>
+
+    <string name="my_preference">"com.azha.com.MyPref" </string>
+    <string name="my_preference_key">"com.azha.com.MyPrefKey"</string>
+
+    <!-- ICON dashboard -->
+    <string name="cucisteam">Cuci Steam</string>
+    <string name="barber">Barber/Salon</string>
+    <string name="restoran">Restaurant</string>
+    <string name="bengkel">Bengkel</string>
+    <string name="samsat">Samsat</string>
+    <string name="obat">Pengobatan Alternatif</string>
+    <string name="rumahsakit">Rumah Sakit</string>
+    <string name="akunsaya">Akun Saya</string>
+    <string name="bantuan">Bantuan</string>
+
+    <!-- halaman barcode -->
+    <string name="masukan_qr_kode">Masukan QR Code</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="submit">Submit</string>
+
+
+</resources>
